@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/9rZmqyb/Rectangle-2-1.png",
+      "title": "Introduction to C Programming",
+      "description": "This comprehensive course is designed to introduce you to the world of C programming. You'll start with the basics, covering syntax, data types, and control structures.",
+      "price": "$49.99",
+      "credit": 3
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/7QZGdkH/Rectangle-2-2.png",
+      "title": "Introduction to Algorithms",
+      "description": "Discover the fascinating world of algorithms and data structures. In this course, you'll learn key algorithmic concepts and problem-solving techniques. ",
+      "price": "$59.99",
+      "credit": 3
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/S0WWB2b/Rectangle-2-3.png",
+      "title": "Introduction to C++ for DSA",
+      "description": "Prepare for competitive programming and data structures with this in-depth C++ course. You'll cover C++ fundamentals, object-oriented programming.",
+      "price": "$69.99",
+      "credit": 4
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Pz8y09L/Rectangle-2-4.png",
+      "title": "Basic Data Structures",
+      "description": "Get a solid grasp of essential data structures, including arrays, linked lists, stacks, and queues. This course takes you step by step through their implementation and usage.",
+      "price": "$39.99",
+      "credit": 2
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/whkZLDw/Rectangle-2-5.png",
+      "title": "Introduction to OOP Python",
+      "description": "Learn the principles of object-oriented programming using Python. You'll dive into classes, objects, inheritance, and polymorphism.",
+      "price": "$49.99",
+      "credit": 2
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/jryf7gB/Rectangle-2-6.png",
+      "title": "Software Engineering",
+      "description": "Explore the complete software development lifecycle in this comprehensive course. From requirements gathering and design to coding, testing.",
+      "price": "$79.99",
+      "credit": 4
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/xHTDdf0/Rectangle-3.png",
+      "title": "AWS, Cloud Computing",
+      "description": "Delve into the world of cloud computing and Amazon Web Services (AWS). Learn to deploy and manage applications in the cloud, provision resources.",
+      "price": "$89.99",
+      "credit": 4
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/nj9ssqb/Rectangle-3-1.png",
+      "title": "Database (MySQL)",
+      "description": "Master the art of database management with MySQL. You'll learn to design and administer relational databases, write complex SQL queries.",
+      "price": "$59.99",
+      "credit": 4
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/0qNhGDb/Rectangle-2.pngs",
+      "title": "Problem-Solving Part",
+      "description": "Enhance your problem-solving skills with this dynamic course. You'll tackle a variety of real-world problems, applying coding.",
+      "price": "$29.99",
+      "credit": 2
+    }
+  ]
